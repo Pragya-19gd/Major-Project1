@@ -1,0 +1,10 @@
+{
+  "name": "major-project-1",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix microgrid-energy-scheduling/frontend run build",
+    "dev": "npm --prefix microgrid-energy-scheduling/frontend run dev",
+    "preview": "npm --prefix microgrid-energy-scheduling/frontend run preview"
+  }
+}
